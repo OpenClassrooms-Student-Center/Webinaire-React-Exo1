@@ -1,0 +1,19 @@
+form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 400px;
+    margin: auto;
+}
+.part-form {
+    width: 150px;
+    box-sizing: border-box;
+}
+
+.part-form input {
+    width: 100%;
+}
+
+label {
+    display: block;
+}
